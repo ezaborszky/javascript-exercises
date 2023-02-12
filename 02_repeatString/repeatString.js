@@ -15,6 +15,6 @@ repeatString("hey", 1)
 repeatString("hey", 0)
 repeatString("hey", -1)
 repeatString("hey",)
-repeatString("",)
+repeatString("",10)
 // Do not edit below this line
 module.exports = repeatString;
